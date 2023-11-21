@@ -12,7 +12,6 @@ Create a directory for your Terraform project and create a Terraform configurati
      instance_type = "t2.micro"
      subnet_id     = "subnet-0b81258db00b76ded"
      key_name       = "aws_login"
-}
    }
 ```
 
